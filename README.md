@@ -58,10 +58,11 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DesTroTN&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-
+<!-- 
 ## Top Respositorys:
   <p align="left">
      <a href="https://github.com/DesTroTN/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DesTroTN&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DesTroTN/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DesTroTN&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+  </p> 
+  -->
