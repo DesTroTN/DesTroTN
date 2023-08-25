@@ -23,10 +23,6 @@
   </a>
 
 <br>
-I am a developer, web designer, hacker-wannabe, and a lot of things in between. You can define me as a computer sciences enthusiast. I love to see how things work in depth, make things, break things and make things that break things.😄
-
-In my spare time, I enjoy gaming, cinematography, and reading novels.
-
 
 <!--
 **DesTroTN/DesTroTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
